@@ -1,5 +1,5 @@
 <html>
-
+<meta charset="utf-8">
 <font size="25">
 <p style="color:white; background-color:gray;">
 <p align="center">hercules 8 digit password generator</p></p>
